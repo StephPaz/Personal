@@ -17,11 +17,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-<details>
-  <summary>
-    Second Level
-  </summary>
-<br/>
 # Header 1
 ## Header 2
 ### Header 3
@@ -33,10 +28,6 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
- </details> 
-  </details> 
-<br/>
-{::options parse_block_html="false" /}
 
 [Link](url) and ![Image](src)
 ```
@@ -44,9 +35,17 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
-
+<details>
+  <summary>
+    Second Level
+  </summary>
+<br/>
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/StephPaz/Personal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ </details> 
+  </details> 
+<br/>
+{::options parse_block_html="false" /}

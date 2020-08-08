@@ -1,7 +1,6 @@
 {::options parse_block_html="true" /}
 
-# Healthcare Policy Classification Instructions-updatedtag
-
+# Healthcare Policy Classification Instructions
 <details>
  <summary>
 We are working to automatically identify healthcare/medical policy content from healthcare related websites. If you would like to help us do this, please find the instructions for identifying policy below, read through the "how-to" information and try some practice questions! Click on the triangles throughout to expand/collapse sections.
@@ -44,19 +43,16 @@ In general, a "policy" is a set of rules that someone puts into place. These rul
 
 ## How can you tell if it is a Heathcare or Medical Policy?
 <details>
- <summary>
-  Collapse/Expand
- </summary>
  <br/>
 You can tell if something is "policy" if it says who it is a rule for and the result or outcome of the rule. Sometimes the rules can be complicated - when that happens, it is easier to tell if something is a policy by looking for the building blocks, or parts, of a policy to see if they are there.  If you find the key parts, then you probably have a policy.
 
 ## Parts of a Medical Policy
 All policy should have all three of these components:
 
-### Purpose Statement (The WHY)
+### Purpose Statement
  <details>
  <summary>
-  Collapse/Expand
+  The WHY
  </summary>
  <br/>
 The purpose statement might be found at the beginning or the end of the content, but it will be more of an overview of why this policy is in place.  
@@ -70,10 +66,10 @@ In the above case, the WHY of the policy "is to assist providers in completing c
    > This policy is made available _to provide information on certain Humana claims payment policies_.
 </details>
 
-### Scope Statement (The WHO)
+### Scope Statement
 <details>
  <summary>
-  Collapse/Expand
+  The WHO
  </summary>
  <br/>
 The scope statement part of a policy is where the person making the rule states who the rule applies to (who the policy affects). Sometimes the WHY and the WHO might be mixed together.
@@ -90,10 +86,10 @@ A second example is from Aetna's published policy on Allergy Testing:
 While the Aetna policy is talking about medical necessity for members, meaning that it will only cover services under certain circumstances, the other WHO implied is the provider of those allergy testing services, even though they didn't say "providers of allergy testing". 
 </details>
 
-### Policy Statement(s) (The WHAT)
+### Policy Statement(s)
 <details>
  <summary>
-  Collapse/Expand
+  The WHAT
  </summary>
  <br/>
 The Policy Statement is the part of the policy that explains the rule itself - it is the 'what'. This portion of the policy will talk about the requirements that must be followed - it is the essence of the rule or policy. Most of the time there are many policy statements (WHAT statements) in a policy or manual.  If you are reviewing a page and find even a single WHAT, you do not have to keep reviewing to find more (unless you aren't sure that it is policy and want to try to find a better example on the page).

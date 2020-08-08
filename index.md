@@ -34,6 +34,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+<br/>
+
+{::options parse_block_html="false" /}
+
 ### Jekyll Themes
 <details>
   <summary>

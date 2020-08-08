@@ -1,6 +1,7 @@
 {::options parse_block_html="true" /}
 
 # Healthcare Policy Classification Instructions
+
 <details>
  <summary>
 We are working to automatically identify healthcare/medical policy content from healthcare related websites. If you would like to help us do this, please find the instructions for identifying policy below, read through the "how-to" information and try some practice questions! Click on the triangles throughout to expand/collapse sections.

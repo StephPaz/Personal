@@ -46,4 +46,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
  </details> 
   </details> 
 <br/>
-{::options parse_block_html="false" /}
+

@@ -14,7 +14,7 @@ _TIP: write your answers down on a piece of paper - the checkboxes in each quest
 
 <details>
   <summary>
-    Expand
+    Click for Question
   </summary>
 <br/>
   
@@ -25,11 +25,10 @@ _TIP: write your answers down on a piece of paper - the checkboxes in each quest
 - [ ] No
  
  [Tutorial - Question 1 - Right Click and choose "Open in New Window"](./index.md)
-  
-  <details>
-    <summary>
-      Click For Answer
-    </summary>
+ <details>
+  <summary>
+    Click For Answer
+  </summary>
   <br/>
   
 - [x] Definitely
@@ -47,7 +46,7 @@ Explanation: This is a new benefit announcement with a procedure code and effect
 ### Question 2
 <details>
   <summary>
-    Expand
+    Click for Question
   </summary>
   <br/>
   
@@ -72,10 +71,11 @@ Explanation: This is a document labeled "Exhibit". It is generally the case that
 </details>
 <br/>
 
- ### Question 3
-
- <details>
-  <summary>Expand</summary>
+### Question 3
+<details>
+  <summary>
+    Click for Question
+  </summary>
    <br/>
   
 - [ ] Definitely
@@ -86,10 +86,10 @@ Explanation: This is a document labeled "Exhibit". It is generally the case that
  
  
  [Tutorial - Question 3 - Right Click and choose "Open in New Window"](./index.md)
- <details>
-    <summary>
+<details>
+  <summary>
     Click For Answer
-    </summary>
+  </summary>
   <br/>
   
   - [x] No
@@ -101,7 +101,6 @@ Explanation: This is an announcement of delay of claim payment only.  It is just
 <br/>
 
 ### Question 4
-
 <details>
   <summary>
   Expand

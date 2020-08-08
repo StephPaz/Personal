@@ -27,25 +27,22 @@ _TIP: write your answers down on a piece of paper - the checkboxes in each quest
  [Tutorial - Question 1 - Right Click and choose "Open in New Window"](./index.md)
   
   <details>
-      <summary>
-        Click For Answer
-      </summary>
+    <summary>
+      Click For Answer
+    </summary>
   <br/>
   
-  - [x] Definitely
+- [x] Definitely
   
-  Explanation: This is a new benefit announcement with a procedure code and effective date, and healh plan information (TMHP). 
+Explanation: This is a new benefit announcement with a procedure code and effective date, and healh plan information (TMHP). 
   
 * WHY - Official communication of policy change
 * WHO - Any provider billing the procedure code after the start date
 * WHAT - **IF** 69205, for CSHCN members all ages, rendered in inpatient or outpatient setting **THEN** Payable
 
-   </details>
- </details> 
+</details>
+</details> 
 <br/>
-<br/>
-
-{::options parse_block_html="false" /}
 
 ### Question 2
 <details>
@@ -61,10 +58,10 @@ _TIP: write your answers down on a piece of paper - the checkboxes in each quest
 - [ ] No
  
  [Tutorial - Question 2 - Right Click and choose "Open in New Window"](./index.md)
-  <details>
-     <summary>
-     Click For Answer
-     </summary>
+<details>
+  <summary>
+    Click For Answer
+  </summary>
   <br/>
   
   - [x] No

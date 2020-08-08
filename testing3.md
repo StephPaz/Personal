@@ -1,3 +1,5 @@
+{::options parse_block_html="true" /}
+
 [Go back to Main Page](../identifying-policy.md)
 
 ---
@@ -7,13 +9,12 @@ In these examples you will find all three required parts of a healthcare/medical
 
 Additionally you will find full examples of provider reimbursement policy, member benefit policy, and clinical guideline policy.
 ### Example 1
-{::options parse_block_html="true" /}
 <details>
 <summary>
    Click to View
 </summary>
    <br/> 
-   
+
 ![Example - Definitely Policy](../images/DefinitelyPolicy_markup%20(2).png)
 
    a. WHY: Contains a list of frequency limits
@@ -30,7 +31,7 @@ Additionally you will find full examples of provider reimbursement policy, membe
     Click to View
  </summary>
  <br/> 
-   
+
 This policy in this example is a **Member Benefit policy**. It differs from provider reimbursement in that the limit is on the number of times a member can receive the service and be covered by the insurance, rather than limiting how many times a provider will be reimbursed for a given service.  The difference is sometimes subtle, but in essence a member benefit can be different between different members if they have different plans (such as a premium versus a basic plan) whereas the limit of reimbursements to a provider for a given code can be independent of a member's plan allowance.
 
 ![Example 2 - Definitely Policy](../images/DefPolicy_Benefit_markup.png)

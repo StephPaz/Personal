@@ -4,70 +4,63 @@
 
 ---
 
-## Definitely Policy Examples - testing2
-In these examples you will find all three required parts of a healthcare/medical policy.  You will also find very specific values or "contextual reference data", like CPT, HCPCS, indicators or other values.  In the below examples these would be "A4224", "1 per week", "Indicator = "0", or the specific list of supporting documents.
-
-Additionally you will find full examples of provider reimbursement policy, member benefit policy, and clinical guideline policy.
-<br/>
+## Not Policy
+Policy absolutely must have a WHAT.  This is because the WHAT portion of the policy is the rule.  If we don't have that then there is nothing we can enforce. There is nothing in particular a person has to do - no IF-THEN statement.
 ### Example 1
 <details>
-   <summary>
-      Click to View
-   </summary>
-   <br/> 
+  <summary>
+    Click to View
+  </summary>
+<br/>
+  
+![Example 1 - NOT Policy](../images/NotPolicy.PNG)
 
-![Example - Definitely Policy](../images/DefinitelyPolicy_markup%20(2).png)
+a. WHY:
+_"ABCs" of the Medi-Cal provider manuals contain the basic information about how your set of manuals works together...The provider manual is your primary billing reference_
 
-   a. WHY: Contains a list of frequency limits
+b. WHO: this could only be a person who is reading it, maybe a person who bills the Medi-Cal program
 
-   b. WHO: _**Any provider billing the procedure code** within the time frames_
-
-   c. WHAT: **IF** _HCPCS Code_ **THEN** _Frequency Limit_ (If a provider bills A4224, they cannot bill more than 1 per week).  
+c. WHAT: There are no WHATs - meaning, there are no rules on this content page.  
 </details>
 <br/>
 
 ### Example 2
 <details>
- <summary>
+  <summary>
     Click to View
- </summary>
- <br/> 
+  </summary>
+<br/>
+  
+![Example 2 - NOT Policy](../images/NotPolicy_2.png)
 
-This policy in this example is a **Member Benefit policy**. It differs from provider reimbursement in that the limit is on the number of times a member can receive the service and be covered by the insurance, rather than limiting how many times a provider will be reimbursed for a given service.  The difference is sometimes subtle, but in essence a member benefit can be different between different members if they have different plans (such as a premium versus a basic plan) whereas the limit of reimbursements to a provider for a given code can be independent of a member's plan allowance.
+a. WHY:
+_Workaround for failing eligibility inquiries_
 
-![Example 2 - Definitely Policy](../images/DefPolicy_Benefit_markup.png)
+b. WHO: _Providers trying to determine patient eligibility_
 
-   a. WHY: Information on change to benefit criteria for respiratory equipment
-
-   b. WHO: _**Texas Medicaid Members**_
-
-   c. WHAT: There are a few in this example:
-
-1. **IF** _member needs A4606 with U5 modifier_ **THEN** _the service is covered for 1 per 6 calendar months_
-
-2. **IF** _member needs A4623 with U3 modifier_ **THEN** _the plan will cover 31 units per calendar month without a prior approval_
-
-3. **IF** _member needs A7025_ **THEN** _the plan will cover the service once per lifetime_
+c. WHAT: The workaround is simply a workflow method, not a healthcare policy. You might be tempted to think that this is a policy because you can say **IF** _a provider needs to check patient eligibility_ **THEN** _they cannot use client's first name in the field but a Medicaid ID + one of 3 additional identifiers._ But you need to look at the overall intent of the content (often in the title area). Ultimately this is simply a communication of information and does not constitute provider reimbursement policy, member benefit policy, or clinical guideline policy.
 </details>
 <br/>
 
+### A Tip for You
+[Click here](../tips-and-tricks/Document_Types.md) for a list of common document types that are not policy.
+
 ### More Examples
+[Nov 2015 Pharmaceutical and Therapeutic Committed Decisions Available](01-08-16%20november%202015%20pharmaceutical%20and%20therapeutic%20committee%20pdl%20decisions%20available.6d2e402f24a4d7dba61b8c6b7add734d.pdf)
 
-[Change to Small Volume and Ultrasonic Nebulizer Benefit Criteria - Texas Medicaid](01-04-17%20small%20volume%20and%20ultrasonic%20nebulizer%20benefit%20criteria%20to%20change%20for%20tx%20med%20eff%203-1-17.2584a1bab6dc764b80c6801308458d4d.pdf)
+[Enrollment Form](436601_INST_FORM_InstRateBasedEnrlForm.pdf)
 
-[Speech Language Therapy Services - Florida Medicaid](59g_4-324_speech_language_therapy_services.b100f712427b106f6630228902acb521.pdf) 
+[DRG Summary](drg_summary_09182012.e6e1bb06ca95c49b196a355634443c0b.pdf)
 
-[DME Policy - New York Medicaid](DME_Policy_Section.pdf)
+[Vendor Performance Reporting Process](general%20src%2026-attachment%205_vendor%20performance%20reporting%20process%20flow.a76b1d841675856e5407a289a5eef2f3.pdf)
 
-[Laboratory Policy - New York Medicaid](Laboratory-Policy_Section.pdf)
+[Medical Foster Care Services Reporting](pt_2019-19_medicalfostercareservicesreporting_9-16-19.0ccbe2359fa2da3d2c9edf6fb91988a3.pdf)
 
-[Naglazyme Policy - Florida Medicaid](naglazyme_criteria.a9a30028f47fbe77091b336f4af52b6d.pdf)
+[Magellan Healthcare Provider Handbook- Excerpt](provider_handbook_magellan_excerpt.pdf)
+- The information contained in this document does constitute Magellan's policy for becoming an enrolled provider; however, this is classified as an administrative policy and NOT a healthcare/medical policy.
 
-[Radiology and Laboratory Services Policy Manual - Texas Medicaid](vol2_radiology_and_laboratory_services_handbook.7e4717ea224f8908cd0a664a1f86661b.pdf)
-
-[Benefit Criteria Change for Respiratory Aids](https://github.com/open-insight-marketplace/open-insight-marketplace.github.io/blob/Feedback-Update/identify-policy/examples/01-04-17%20Humidifiers%2C%20Heating%20Elements%2C%20Compressors%2C%20and%20Lg%20Vol%20Nebulizers--3-1-17.pdf)
-
-[Clinical Guideline for Aortic Dilation in Patients with Bicuspid Aortic Valves](Clinical_Guideline_AorticDilation_724.full.pdf)
+[Table of Contents Provider Manual](00b_table_of_contents.a3ebe84308d78989acdf461adf3d5d1a.pdf)
+- A table of contents can sometimes look like the beginning of a manual with many healthcare policies but sometimes, like in this case, the document is ONLY the table of contents and there is no healthcare policy content.
 
 ---
 

@@ -1,3 +1,4 @@
+{::options parse_block_html="true" /}
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/StephPaz/Personal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -5,12 +6,22 @@ You can use the [editor on GitHub](https://github.com/StephPaz/Personal/edit/gh-
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-
+<details>
+  <summary>
+    First Level
+  </summary>
+<br/>
+  
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
+<details>
+  <summary>
+    Second Level
+  </summary>
+<br/>
 # Header 1
 ## Header 2
 ### Header 3
@@ -22,6 +33,10 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+ </details> 
+  </details> 
+<br/>
+{::options parse_block_html="false" /}
 
 [Link](url) and ![Image](src)
 ```

@@ -4,16 +4,16 @@
 
 ---
 
-## Definitely Policy Examples - testing
+## Definitely Policy Examples - testing2
 In these examples you will find all three required parts of a healthcare/medical policy.  You will also find very specific values or "contextual reference data", like CPT, HCPCS, indicators or other values.  In the below examples these would be "A4224", "1 per week", "Indicator = "0", or the specific list of supporting documents.
 
 Additionally you will find full examples of provider reimbursement policy, member benefit policy, and clinical guideline policy.
 <br/>
 ### Example 1
 <details>
-<summary>
-   Click to View
-</summary>
+   <summary>
+      Click to View
+   </summary>
    <br/> 
 
 ![Example - Definitely Policy](../images/DefinitelyPolicy_markup%20(2).png)

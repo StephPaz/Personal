@@ -1,6 +1,6 @@
 {::options parse_block_html="true" /}
 
-# Healthcare Policy Classification Instructions
+# Healthcare Policy Classification Instructions-updatedtag
 
 <details>
  <summary>
@@ -8,7 +8,7 @@ We are working to automatically identify healthcare/medical policy content from 
   </summary>
  <br/>
  
-If you like what you see, please search "Classify medial policy documents" at https://worker.mturk.com/! 
+If you like what you see, please search "Classify medial policy documents" at [https://worker.mturk.com/](https://worker.mturk.com/)! 
  
 #### Qualification Test
 A qualification test is required before working on these HITs and may be updated at any time. There is no tolerance of spamming. Your answers are compared to other answers which allow us to determine the accuracy of your work. If we later find that your performance is significantly lower than what you did in the qualification task and compared to other common questions, we retain the right to reject your HITs or block you from this work.
@@ -30,9 +30,6 @@ There are keywords in the document that may help identify whether certain medica
 
 ## What is Healthcare Policy?
 <details>
- <summary>
-  Collapse/Expand
- </summary>
  <br/>
  
 In general, a "policy" is a set of rules that someone puts into place. These rules are meant to be followed by the people they are being written for. In our case, we are looking at rules written for people or places involved in _healthcare_, like for a hospital or a doctor or an ambulance service. Here are a few of the types of healthcare policies:

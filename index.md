@@ -51,8 +51,3 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
   </details> 
 <br/>
 
-[Check out the second page](./testing.md)
-
-[Check out the third page](./testing2.md)
-
-[Check out the fourth page](./testing3.md)

@@ -29,7 +29,7 @@ _TIP: write your answers down on a piece of paper - the checkboxes in each quest
   <details>
       <summary>
         Click For Answer
-  </summary>
+      </summary>
   <br/>
   
   - [x] Definitely
@@ -43,13 +43,14 @@ _TIP: write your answers down on a piece of paper - the checkboxes in each quest
    </details>
  </details> 
 <br/>
+<br/>
 
+{::options parse_block_html="false" /}
 
 ### Question 2
-
 <details>
   <summary>
-  Expand
+    Expand
   </summary>
   <br/>
   

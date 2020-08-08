@@ -5,6 +5,8 @@ You can use the [editor on GitHub](https://github.com/StephPaz/Personal/edit/gh-
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+I am testing the ability to perform nested collapse/expand using html inside of markdown for github pages.
+
 ### Markdown
 <details>
   <summary>

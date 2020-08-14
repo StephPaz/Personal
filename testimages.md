@@ -16,4 +16,4 @@ Top Navigation Bar             |
 
 Light Theme            |  Dark Theme
 :-------------------------:|:-------------------------:
-![test image](./images/LightTheme.png) | ![test image](./images/Dark Theme.png)
+![test image2](./images/LightTheme.PNG) | ![test image](./images/Dark%20Theme.PNG)

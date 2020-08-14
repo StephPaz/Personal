@@ -2,11 +2,15 @@
 
 # Navigating the Healthcare Policy Exchange Website
 
-## Top Navigation Bar
+## Main Page
+<details>
+  <summary>
+    Click for Detals
+  </summary>
+  <br/>
 ![test image](./images/MainPage_Labelled.png){: style="float: left"} 
 
-Trying the table method
-
+<br/> <br/>
 
 Top Navigation Bar             |  
 :-------------------------:|-------------------------

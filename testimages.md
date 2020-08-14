@@ -10,7 +10,7 @@
   <br/>
 ## Main Page
   
-![test image](./images/MainPage_Labelled.png){: style="float: left"} 
+![test image](./images/MainPage_Labelled.png)
 
 <br/> <br/>
 <details>
@@ -36,3 +36,5 @@ Light Theme            |  Dark Theme
     2 Search Bar
   </summary>
   <br/>
+
+![test image](./images/Search_2.png){: style="float: left"}  Enter the search string into the search bar and click "Search." <br/> Click "Reset" to clear search results OR simply type a new search into the search bar.

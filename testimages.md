@@ -18,7 +18,8 @@
     1 Top Navigation Bar
   </summary>
   <br/>
-             |  
+  
+         Icons    |  
 :-------------------------:|-------------------------
 ![test image](./images/TopNav_Labelled.png)  |  **Main Search:** Return to the search landing page. Previous search results will display if applicable <br/> <br/> **Toggle Theme:** Toggle the site background between Dark (default) and Light (traditional) themes <br/> <br/> **Help Page:** I think you figured this one out, since you are here! <br/> <br/> <br/> <br/>
 

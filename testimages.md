@@ -3,7 +3,7 @@
 # Navigating the Healthcare Policy Exchange Website
 
 ## Top Navigation Bar
-![test image](./images/TopNav_Labelled.png){: style="float: left"} 
+![test image](./images/MainPage_Labelled.png){: style="float: left"} 
 
 Trying the table method
 

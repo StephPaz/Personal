@@ -37,4 +37,4 @@ Light Theme            |  Dark Theme
   </summary>
   <br/>
 
-![test image](./images/Search_2.png){: style="float: left"}  Enter the search string into the search bar and click "Search." <br/> Click "Reset" to clear search results OR simply type a new search into the search bar.
+![test image](./images/Search_2.png){: style="float: left"}  - Enter the search string into the search bar and click "Search." <br/>  <br/> - Click "Reset" to clear search results OR simply type a new search into the search bar.

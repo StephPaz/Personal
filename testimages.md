@@ -2,12 +2,13 @@
 
 # Navigating the Healthcare Policy Exchange Website
 
-## Main Page
+
 <details>
   <summary>
     Click for Detals
   </summary>
   <br/>
+## Main Page
 ![test image](./images/MainPage_Labelled.png){: style="float: left"} 
 
 <br/> <br/>
